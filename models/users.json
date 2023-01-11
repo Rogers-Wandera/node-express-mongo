@@ -1,0 +1,6 @@
+[{"id":"98607981-849c-4963-8598-2288964743c3",
+"username":"Ronald",
+"roles":{"User":2001},
+"email":"ronald@gmail.com",
+"password":"$2a$10$VdOCEcoa/rNXM7mTNhQ0fuLZf2Z1Ud.2vPMhBiUvxdtZogc2t0K/y",
+"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJvbmFsZCIsImVtYWlsIjoicm9uYWxkQGdtYWlsLmNvbSIsImlhdCI6MTY3MzQxNTk2OCwiZXhwIjoxNjc4NTk5OTY4fQ.0xKMQvasEuo_grOIo2_N6QzGDkkyyFgLeOBKckP5SQY"},{"id":"8b98e384-9d5b-4ee0-9eb4-5ee05baa725f","username":"Cathy","roles":{"User":2001,"Editor":1984},"email":"cathy@gmail.com","password":"$2a$10$6y35P/kt1ZSC4.7EyLwPROjWcjz/yl2U1beQiz3aROyMku0yuyAma","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNhdGh5IiwiZW1haWwiOiJjYXRoeUBnbWFpbC5jb20iLCJpYXQiOjE2NzM0MTYxMzAsImV4cCI6MTY3ODYwMDEzMH0.9ZFvh04tHUwBa23Je6-AikQo62llQskI31lpS4r07MA"},{"id":"4c385474-b55e-4798-8e59-90f02e95b856","username":"Rogers","roles":{"User":2001,"Admin":1984,"Editor":5150},"email":"roger@gmail.com","password":"$2a$10$8iDSc9M13jEMEsm/R7mO4uCBliODJL3697S4.OB4YIsZqeLsPBGzm","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJvZ2VycyIsImVtYWlsIjoicm9nZXJAZ21haWwuY29tIiwiaWF0IjoxNjczNDE2MzMyLCJleHAiOjE2Nzg2MDAzMzJ9.E7oguVTLREJGwwuKBzmL9Jaf_A1jHl4bn3iNnTB74Ow"}]

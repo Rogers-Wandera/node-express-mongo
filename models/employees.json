@@ -1,0 +1,16 @@
+{
+    "people":[
+        {
+            "id":1,
+            "name":"Wandera Rogers",
+            "Age": 22,
+            "quote":"Who says Africans can't code"
+        },
+        {
+            "id":2,
+            "name":"Ngabwa Catherine",
+            "Age": 21,
+            "quote":"Being a lady is tiresome"
+        }
+    ]
+}

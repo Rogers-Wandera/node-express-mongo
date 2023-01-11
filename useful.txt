@@ -1,0 +1,6 @@
+require("crypto").randomBytes(64).toString("hex");
+creates a random string
+
+
+//front end to send the cookie 
+credentials: 'include'
